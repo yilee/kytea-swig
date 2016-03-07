@@ -1,0 +1,1 @@
+swig -c++ -java -package com.linkedin.kytea -outdir com/linkedin/kytea mykytea.i
